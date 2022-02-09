@@ -1,1 +1,1 @@
-print('hello python & git rocc')
+print('hello python & git rock')
